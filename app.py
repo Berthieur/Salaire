@@ -10,7 +10,6 @@ CORS(app)  # Autorise les requêtes depuis Android
 
 # --- Initialisation ---
 init_db()
-
 # --- Routes API ---
 
 # 1. 🔐 Login (exemple simple)
